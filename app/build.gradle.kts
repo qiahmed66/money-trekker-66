@@ -143,10 +143,10 @@ if (firebasePublisher.exists()) {
 
 android {
 
-    namespace = "com.naveenapps.expensemanager"
+    namespace = "com.imran.moneytrekker"
 
     defaultConfig {
-        applicationId = "com.naveenapps.expensemanager"
+        applicationId = "com.imran.moneytrekker"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
